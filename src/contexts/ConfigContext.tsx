@@ -12,7 +12,7 @@ const DEFAULT_CONFIG = {
             "mapsLink": "https://maps.google.com/?q=40.7128,-74.0060"
         },
         "whatsapp": {
-            "phoneNumber": "9860188215",
+            "phoneNumber": "8369554402",
             "defaultMessage": "Hi, I would like to inquire about Hajj/Umrah packages."
         },
         "logo": {

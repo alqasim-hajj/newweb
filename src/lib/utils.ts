@@ -7,7 +7,7 @@ export function cn(...inputs: ClassValue[]) {
 
 // WhatsApp configuration
 export const WHATSAPP_CONFIG = {
-  phoneNumber: "9860188215", // International format without + or spaces
+  phoneNumber: "8369554402", // International format without + or spaces
   defaultMessage: "Hi, I would like to inquire about Hajj/Umrah packages.",
 };
 
