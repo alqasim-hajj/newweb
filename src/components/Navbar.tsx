@@ -4,6 +4,7 @@ import { openWhatsApp } from "@/lib/utils";
 import Logo from "./Logo";
 import { useConfig } from "@/contexts/ConfigContext";
 
+
 const Navbar = () => {
   const config = useConfig();
 

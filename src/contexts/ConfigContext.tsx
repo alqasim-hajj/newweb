@@ -4,8 +4,8 @@ const DEFAULT_CONFIG = {
     "general": {
         "appName": "Al-Qasim Tours & Travels",
         "contact": {
-            "phone": "+1 (234) 567-890",
-            "phoneLink": "tel:+1234567890",
+            "phone": "+918369554402",
+            "phoneLink": "tel:+918369554402",
             "email": "info@sacredjourneys.com",
             "emailLink": "mailto:info@sacredjourneys.com",
             "address": "123 Islamic Center Road\nNew York, NY 10001",
