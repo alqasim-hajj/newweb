@@ -43,7 +43,7 @@ const Logo = ({
       className={`flex items-center gap-3 lg:gap-4 ${href ? "cursor-pointer" : ""} ${className}`}
     >
       {logo?.image && (
-        <div className={`${sizeClasses[size]} rounded-full flex items-center justify-center overflow-hidden shadow-sm border border-emerald/10 bg-white/5`}>
+        <div className={`${sizeClasses[size]} rounded-full flex items-center justify-center overflow-hidden `}>
           <img
             src={logo.image}
             alt={`${logo.text} Logo`}
