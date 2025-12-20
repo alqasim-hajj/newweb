@@ -383,7 +383,7 @@
                     },
                     {
                         "type": "video",
-                        "src": "https://www.youtube.com/embed/BadB1z-V_qU",
+                        "src": "https://www.youtube.com/embed/eTrUgq_-2wo",
                         "title": "Hajj Journey Highlights"
                     },
                     {
@@ -394,9 +394,15 @@
                     },
                     {
                         "type": "image",
-                        "src": "https://images.unsplash.com/photo-1531256379416-9f000e90aacc?q=80&w=1000",
-                        "alt": "Pilgrims performing Tawaf",
-                        "title": "Tawaf"
+                        "src": "https://imgcy.trivago.com/c_fill,d_dummy.jpeg,e_sharpen:60,f_auto,h_627,q_auto,w_1200/partner-images/37/e8/d6b98baef7198fde5809274ae667f8607776d0be36113f97a9535b141b2c.jpeg",
+                        "alt": "Makkah tower Hotel",
+                        "title": "Makkah tower Hotel"
+                    },
+                    {
+                        "type": "image",
+                        "src": "https://images.pexels.com/photos/24284828/pexels-photo-24284828.jpeg",
+                        "alt": "Makkah tower Hotel",
+                        "title": "Makkah tower Hotel"
                     }
                 ]
             },
